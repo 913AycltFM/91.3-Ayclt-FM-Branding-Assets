@@ -25,7 +25,7 @@ When updated artwork is needed:
 ## Station Branding
 
 **Station:** 91.3 Ayclt FM  
-**Slogan:** La Marque TX #1 Hit Music Station
+**Slogan:** La Marque Texas #1 Hit Music Station
 
 ## Repository Use
 
@@ -35,4 +35,4 @@ Please preserve original files and use clear, descriptive filenames when adding 
 
 ---
 
-91.3 Ayclt FM — La Marque TX #1 Hit Music Station.
+91.3 Ayclt FM — La Marque Texas #1 Hit Music Station.
